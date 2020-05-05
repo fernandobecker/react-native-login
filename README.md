@@ -1,1 +1,4 @@
 # ReactNativeLogin
+
+- yarn 
+- expo start
