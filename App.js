@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, Image, StyleSheet, ImageBackground, StatusBar, TextInput, Animated, Dimensions, TouchableOpacity } from "react-native";
+import { View, Text, Image, StyleSheet, StatusBar, TextInput, Animated, Dimensions, TouchableOpacity } from "react-native";
 import { TypingAnimation } from 'react-native-typing-animation';
 import FontAwesome from "react-native-vector-icons/FontAwesome";
 import * as Animatable from 'react-native-animatable';
